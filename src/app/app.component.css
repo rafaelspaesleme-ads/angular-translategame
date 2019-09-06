@@ -1,0 +1,10 @@
+.container {
+    margin: 30px;
+    border-radius: 5px 10%;
+    
+}
+
+.alert {
+    margin: 50px;
+    justify-content: center;
+}
